@@ -5,7 +5,7 @@
 </h1>
 
 ### 📕 About me:
-<p>I'm <b>Bogdan</b>, and I am a self-taught front-end developer. I enjoy learning and care about quality of my study and code in project which i make. For me, most important is getting expirience and new knowledge to move towards the goal. <br>
+<p>I'm <b>Bogdan</b>, and I am a self-taught front-end developer. I enjoy learning and care about quality of my study process and code in projects which i make. For me, most important is getting expirience and new knowledge to move towards the goal. <br>
 🌎 I speak English, Polish, Ukrainian and Russian </p>
 
 ### :hammer_and_wrench: Languages and Tools :

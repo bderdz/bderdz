@@ -11,6 +11,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,redux,git,gulp,webpack&perline=4)](https://skillicons.dev)
+### 🎓Completed courses:
+<a href="https://www.udemy.com/certificate/UC-1d930940-a7fa-4a69-8b04-13cbb998e2d9/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
 
 #### my social media:
   <a href="https://www.facebook.com/bogdan.derdz/">

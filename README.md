@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=100&section=header"/>
 
 <h3 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" width="32"/>
+  <a href="https://t.me/bagtirr">
+    <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+   </a>
+  <a href=https://www.facebook.com/bogdan.derdz/">
+    <img src="https://img.shields.io/badge/Facebook-1A1B26?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
 </h3>
 
 ---
@@ -19,12 +23,10 @@
   :hammer_and_wrench: Languages and Tools :
 </h3>
 <div align="center">
-<span>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagtirr&layout=compact&theme=dracula&hide_border=true" />
-</span>
-<span>
-  <img height=150 align="center" src="https://skillicons.dev/icons?i=js,react,redux,html,sass,css,git,gulp,webpack&perline=4"/>
-</span>
+  <br>
+  <br>
+  <img height=180 align="center" src="https://skillicons.dev/icons?i=js,react,redux,html,sass,css,git,gulp,webpack&perline=4"/>
 </div>
 
 ---

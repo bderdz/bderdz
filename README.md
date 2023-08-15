@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Bogdan.</h3>
+<h1 align="center">👋 Hi, I'm Bogdan.</h3>
 
 <p align="center">
   <a href="https://t.me/bagtirr">

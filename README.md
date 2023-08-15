@@ -24,7 +24,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagtirr&layout=compact&theme=dracula&hide_border=true" />
   <br>
   <br>
-  <img height=180 align="center" src="https://skillicons.dev/icons?i=js,react,redux,html,sass,css,git,gulp,webpack&perline=4"/>
+  <img height=180 align="center" src="https://skillicons.dev/icons?i=js,react,redux,html,sass,css,nodejs,git,gulp,webpack&perline=4"/>
 </div>
 
 ---

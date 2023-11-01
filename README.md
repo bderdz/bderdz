@@ -14,11 +14,10 @@
 <h3 align="center">📕 About me:</h3>
 
 <p>
-  I am a self-taught front-end developer. 
-  I enjoy learning and care about quality of my study process and code in projects which i make.
-  For me, most important is getting expirience and new knowledge to move towards the goal. 
-  <br>
+  I'm a front-end developer and computer science student from Poland.
+    <br>
   I speak English, Polish, Ukrainian and Russian 🌎
+ 
 </p>
 
 ---

@@ -14,7 +14,7 @@
 <h3 align="center">📕 About me:</h3>
 
 <p>
-  I'm a front-end developer and computer science student from Poland.
+  I'm a computer science student and front-end developer and computer science student from Poland.
     <br>
   I speak English, Polish, Ukrainian and Russian 🌎
  

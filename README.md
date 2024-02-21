@@ -25,7 +25,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagtirr&layout=compact&theme=dracula&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bogdan-derdz&layout=compact&theme=dracula&hide_border=true" />
   <br>
   <br>
   <img height=180 align="center" src="https://skillicons.dev/icons?i=js,ts,react,redux,html,sass,css,nodejs,git,gulp&perline=4"/>

@@ -15,8 +15,9 @@
 
 <p>
   🎓 Computer science student from Poland. 
+  <br>
   👨‍💻 I learn IOS mobile development and also i have base level knowledge in python and c++
-    <br>
+  <br>
   🌎 I speak English, Polish, Ukrainian and Russian 
  
 </p>

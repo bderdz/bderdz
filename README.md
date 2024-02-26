@@ -14,7 +14,7 @@
 <h3 align="center">📕 About me:</h3>
 
 <p>
-  I'm a computer science student from Poland. I learn IOS mobile development and also i have base level knowledge in python and c++
+    I'm a computer science student from Poland. I learn IOS mobile development and also i have base level knowledge in python and c++
     <br>
   I speak English, Polish, Ukrainian and Russian 🌎
  

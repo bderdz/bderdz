@@ -4,7 +4,7 @@
   <a href="https://t.me/bagtirr">
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
-  <a href="https://www.facebook.com/bogdan.derdz/">
+  <a href="https://www.facebook.com/b.derdz/">
     <img src="https://img.shields.io/badge/Facebook-1A1B26?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
    </a>
 </p>

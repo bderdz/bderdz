@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bogdan.</h3>
 
 <p align="center">
-  <a href="https://t.me/bagtirr">
+  <a href="https://t.me/bderdz">
     <img src="https://img.shields.io/badge/Telegram-1A1B26?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
   <a href="https://www.facebook.com/b.derdz/">

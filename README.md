@@ -16,10 +16,7 @@
 <p>
   🎓 Computer science student from Poland. 
   <br>
-  👨‍💻 I learn IOS mobile development and also i have base level knowledge in python and c++
-  <br>
   🌎 I speak English, Polish, Ukrainian and Russian 
- 
 </p>
 
 ---
@@ -27,7 +24,7 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bogdan-derdz&layout=compact&theme=dracula&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=dracula&hide_border=true" />
   <br>
   <br>
   <img height=120 align="center" src="https://skillicons.dev/icons?i=python,cpp,swift,js,ts,git&perline=3"/>

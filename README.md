@@ -27,7 +27,7 @@
   <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=dracula&hide_border=true" />
   <br>
   <br>
-  <img height=120 align="center" src="https://skillicons.dev/icons?i=python,cpp,git&perline=3"/>
+  <img height=40 align="center" src="https://skillicons.dev/icons?i=python,cpp,git&perline=3"/>
 </div>
 
 ---

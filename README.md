@@ -29,13 +29,3 @@
   <br>
   <img height=40 align="center" src="https://skillicons.dev/icons?i=python,cpp,git&perline=3"/>
 </div>
-
----
-
-<h3 align="center">🎓Completed courses:</h3>
-
-<div align="center">
-
-<a href="https://www.udemy.com/certificate/UC-1d930940-a7fa-4a69-8b04-13cbb998e2d9/">JavaScript & React full course</a>
-</div>
-

@@ -12,10 +12,7 @@
    </a>
 </p>
 
----
-
-<h2 align="center">📕 About me:</h3>
-
+<h2 align="left">📕 About me:</h3>
 <p>
   🎓 I’m a 22-year-old Computer Science student at UMCS with a passion for coding and problem-solving. 
    <br>
@@ -23,6 +20,7 @@
    <br>
    Additionally, I’m interested in programming in C++ and Arduino.
   <br>
+   <br>
   🌎 I speak English, Polish, Ukrainian and Russian 
 </p>
 

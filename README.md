@@ -14,10 +14,14 @@
 
 ---
 
-<h3 align="center">📕 About me:</h3>
+<h2 align="center">📕 About me:</h3>
 
 <p>
-  🎓 Computer science student from Poland. 
+  🎓 I’m a 22-year-old Computer Science student at UMCS with a passion for coding and problem-solving. 
+   <br>
+   <b>My primary programming language is Python, and I’m particularly interested in Data Science, machine learning, and data analysis. I also have a strong understanding of algorithms.</b>
+   <br>
+   Additionally, I’m interested in programming in C++ and Arduino.
   <br>
   🌎 I speak English, Polish, Ukrainian and Russian 
 </p>

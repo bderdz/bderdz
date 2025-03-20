@@ -29,8 +29,10 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=dracula&hide_border=true" />
-  <br>
-  <br>
   <img height=45 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,numpy,pandas,jupyter,git"/>
+   <br>
+   <br>
+   <br>
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=dracula&hide_border=true" />
+ 
 </div>

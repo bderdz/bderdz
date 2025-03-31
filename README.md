@@ -2,16 +2,16 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/bderdz/">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-F6F1DE?style=for-the-badge&logo=linkedin&logoColor=black" />
    </a>
    <a href="https://www.kaggle.com/bderdz">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-F6F1DE?style=for-the-badge&logo=Kaggle&logoColor=black"/>
    </a>
   <a href="https://t.me/bderdz">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-F6F1DE?style=for-the-badge&logo=telegram&logoColor=black"/>
    </a>
   <a href="https://www.facebook.com/b.derdz/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-F6F1DE?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook"/>
    </a>
 
 </p>
@@ -37,6 +37,6 @@
    <br>
    <br>
    <br>
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=dracula&hide_border=true" />
+  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=ayu-mirage&hide_border=true" />
  
 </div>

@@ -37,6 +37,5 @@
    <br>
    <br>
    <br>
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bderdz&layout=compact&theme=ayu-mirage&hide_border=true" />
- 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bderdz&theme=gruvbox_light&layout=donut" /> 
 </div>

@@ -25,7 +25,7 @@
    Additionally, I’m interested in programming in C++ and Arduino.
   <br>
    <br>
-  🌎 I speak English, Polish, Ukrainian and Russian 
+  🌎 I speak <b>English, Polish, Ukrainian and Russian </b>
 </p>
 
 ---

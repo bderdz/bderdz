@@ -21,8 +21,6 @@
   🎓 I’m a 22-year-old Computer Science student at UMCS with a passion for coding and problem-solving. 
    <br>
    <b>My primary programming language is Python, and I’m particularly interested and looking for opportunities to learn and grow in Data Science, Machine Learning, and Data Analysis. I also have a strong understanding of algorithms.</b>
-   <br>
-   Additionally, I’m interested in programming in C++ and Arduino.
   <br>
    <br>
   🌎 I speak <b>English, Polish, Ukrainian and Russian </b>

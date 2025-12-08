@@ -31,9 +31,5 @@
 <h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 
 <div align="center">
-  <img height=45 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,numpy,pandas,cpp,git,docker,gcp,jupyter"/>
-   <br>
-   <br>
-   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bderdz&theme=gruvbox_light&layout=donut" /> 
+  <img height=45 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,numpy,pandas,cpp,n8n,git,docker,gcp,jupyter"/>
 </div>

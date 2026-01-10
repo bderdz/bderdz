@@ -28,8 +28,8 @@
 
 ---
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
+<h3 align="center">:hammer_and_wrench: Tech stack:</h3>
 
 <div align="center">
-  <img height=45 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,numpy,pandas,cpp,n8n,git,docker,gcp,jupyter"/>
+  <img height=45 align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,langchain,fastapi,numpy,pandas,cpp,n8n,git,docker,gcp,jupyter"/>
 </div>
